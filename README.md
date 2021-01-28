@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there 👋</h3>
-  <h2>I Am Praveen Mani:guitar:	</h2>
+  <h2>:smiley: I Am Praveen Mani :smiley:	</h2>
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "100" height = "100">
 </div>
 <a href="https://linkedin.com/in/himanshu-aswal"><img src="/photos/exU8rYn8_400x400.jpg" alt="img" width = "50" heigth = "50"></a>
