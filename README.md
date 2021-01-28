@@ -4,6 +4,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "100" height = "100">
 </div>
 <a href="https://linkedin.com/in/himanshu-aswal">Linked.in</a>
+<img src="https://www.elitecolumn.com/wp-content/uploads/2017/03/Software-Engineer-Code-Crash.gif" width="100px">
 <!--
 **praveenalpha/praveenalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
