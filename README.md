@@ -3,7 +3,7 @@
 <h2 style="color:blue;">I Am Praveen Mani:guitar:	</h2>
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "100" height = "100">
 </div>
-[a LinkedIn](https://www.linkedin.com/in/praveen-mani-392240163/)
+<a href="https://linkedin.com/in/himanshu-aswal">Linked.in</a>
 <!--
 **praveenalpha/praveenalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
