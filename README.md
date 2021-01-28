@@ -3,12 +3,13 @@
     <h3>:smiley: I Am Praveen Mani :smiley:	<br>
     :computer: I am a Full Stack web developer (MERN) :computer: <br>
     Who loves to make interactive and responsive websites</h3>
-  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "100" height = "100">
+  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "200" height = "200">
 </div>
-<a href="https://www.linkedin.com/in/praveen-mani-392240163/"><img src="/photos/exU8rYn8_400x400.jpg" alt="img" width = "50" heigth = "50"></a>
-<a href="https://leetcode.com/Praveen619/"><img src="/photos/download.jpg" alt="img" width = "50" heigth = "50"></a>
-<a href="https://auth.geeksforgeeks.org/user/praveenmani1/practice/"><img src="/photos/gfg.jpg" alt="img" width = "50" heigth = "50"></a>
-
+<div align="right">
+    <a href="https://www.linkedin.com/in/praveen-mani-392240163/"><img src="/photos/exU8rYn8_400x400.jpg" alt="img" width = "20" heigth = "20"></a>
+    <a href="https://leetcode.com/Praveen619/"><img src="/photos/download.jpg" alt="img" width = "20" heigth = "20"></a>
+    <a href="https://auth.geeksforgeeks.org/user/praveenmani1/practice/"><img src="/photos/gfg.jpg" alt="img" width = "20" heigth = "20"></a>
+</div>
 <!--
 **praveenalpha/praveenalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
