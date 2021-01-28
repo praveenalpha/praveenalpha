@@ -1,6 +1,6 @@
 <div align="center">
 <h3>Hi there 👋</h3>
-<h2>I Am Praveen Mani</h2>
+<h2>I Am Praveen Mani</h2>:standing_person:
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "100" height = "100">
 </div>
 <!--
