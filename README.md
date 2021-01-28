@@ -2,8 +2,9 @@
 <h3>Hi there 👋</h3>
 <h2>I Am Praveen Mani</h2>                      
 </div>
+<div align = "center">
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "100" height = "100">
-
+</div>
 <!--
 **praveenalpha/praveenalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
