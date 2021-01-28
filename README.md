@@ -1,6 +1,3 @@
-### Hi there 👋
-### I Am Praveen Mani
-<div align=”center”> this is central content</div>
 <div align="center">
 <h3>Hi there 👋</h3>
 <h2>I Am Praveen Mani</h2>
