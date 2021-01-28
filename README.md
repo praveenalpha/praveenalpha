@@ -5,7 +5,10 @@
     Who loves to make interactive and responsive websites</h3>
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "100" height = "100">
 </div>
-<a href="https://linkedin.com/in/himanshu-aswal"><img src="/photos/exU8rYn8_400x400.jpg" alt="img" width = "50" heigth = "50"></a>
+<a href="https://www.linkedin.com/in/praveen-mani-392240163/"><img src="/photos/exU8rYn8_400x400.jpg" alt="img" width = "50" heigth = "50"></a>
+<a href="https://leetcode.com/Praveen619/"><img src="/photos/download.jpg" alt="img" width = "50" heigth = "50"></a>
+<a href="https://auth.geeksforgeeks.org/user/praveenmani1/practice/"><img src="/photos/gfg.jpg" alt="img" width = "50" heigth = "50"></a>
+
 <!--
 **praveenalpha/praveenalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
