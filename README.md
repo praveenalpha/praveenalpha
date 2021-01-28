@@ -2,7 +2,8 @@
 ### I Am Praveen Mani
 <div align=”center”> this is central content</div>
 <div align="center">
-<h1>Praveen Mani</h1>
+<h1>Hi there 👋</h1>
+<h1>I Am Praveen Mani</h1>
 </div>
 <!--
 **praveenalpha/praveenalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
