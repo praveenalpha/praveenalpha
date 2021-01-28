@@ -5,7 +5,7 @@
     Who loves to make interactive and responsive websites</h3>
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "200" height = "200">
 </div>
-<div align="right">
+<div>
     <h4>Know me better:hugs:</h4> 
     <ul>
         <li><a href="https://www.linkedin.com/in/praveen-mani-392240163/">LinkedIn</a></li>
