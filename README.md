@@ -2,7 +2,7 @@
 ### I Am Praveen Mani
 <div align=”center”> this is central content</div>
 <div align="center">
-<h1>Hi there 👋</h1>
+### Hi there 👋
 <h1>I Am Praveen Mani</h1>
 </div>
 <!--
