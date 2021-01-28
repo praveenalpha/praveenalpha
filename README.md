@@ -1,8 +1,9 @@
 <div align="center">
     <h3>👋 Hi there 👋</h3>
     <h3>:smiley: I Am Praveen Mani :smiley:	<br>
-    :computer: I am a Full Stack web developer (MERN) :computer: <br>
-    Who loves to make interactive and responsive websites</h3>
+    :computer: A Full Stack web developer (MERN) :computer: <br>
+    Who loves to make interactive and responsive websites<br>
+       :pencil2: And also loves solving competetive problems :pen:</h3>
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "200" height = "200">
 </div>
 <div>
