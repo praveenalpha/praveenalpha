@@ -7,9 +7,11 @@
 </div>
 <div align="right">
     <h4>Know me better:hugs:</h4> 
-    <a href="https://www.linkedin.com/in/praveen-mani-392240163/">LinkedIn</a>
-    <a href="https://leetcode.com/Praveen619/">Leetcode</a>
-    <a href="https://auth.geeksforgeeks.org/user/praveenmani1/practice/">GeeksForGeeks</a>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/praveen-mani-392240163/">LinkedIn</a></li>
+        <li><a href="https://leetcode.com/Praveen619/">Leetcode</a></li>
+        <li><a href="https://auth.geeksforgeeks.org/user/praveenmani1/practice/">GeeksForGeeks</a></li>
+    </ul>
 </div>
 <!--
 **praveenalpha/praveenalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
