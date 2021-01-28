@@ -1,11 +1,10 @@
 <div align="center">
   <h3>Hi there 👋</h3>
-  <h2 style="color:blue;">I Am Praveen Mani:guitar:	</h2>
+  <h2>I Am Praveen Mani:guitar:	</h2>
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "100" height = "100">
-  <a href="https://linkedin.com/in/himanshu-aswal">Linked.in</a>
+  
+  <a href="https://linkedin.com/in/himanshu-aswal"><img src="/photos/exU8rYn8_400x400.jpg" alt="img" width = "50" heigth = "50"></a>
 </div>
-![Uploading buildingWallpaper.jpg…]()
-
 <!--
 **praveenalpha/praveenalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
