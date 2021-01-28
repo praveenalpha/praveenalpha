@@ -12,6 +12,7 @@
         <li><a href="https://www.linkedin.com/in/praveen-mani-392240163/">LinkedIn</a></li>
         <li><a href="https://leetcode.com/Praveen619/">Leetcode</a></li>
         <li><a href="https://auth.geeksforgeeks.org/user/praveenmani1/practice/">GeeksForGeeks</a></li>
+        <li><a href="https://www.hackerrank.com/pm495949">HackerRank</a></li>
     </ul>
 </div>
 <!--
