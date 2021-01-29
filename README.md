@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="img" width = "200" height = "200">
 </div>
 <div>
-    <h4>Know me better<h3>:hugs:</h3></h4> 
+    <h4>Know me better<span style="font-size:150%;">:hugs:</span></h4> 
     <ul>
         <li><a href="https://www.linkedin.com/in/praveen-mani-392240163/">LinkedIn</a></li>
         <li><a href="https://leetcode.com/Praveen619/">Leetcode</a></li>
