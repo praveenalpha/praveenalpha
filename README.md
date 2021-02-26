@@ -13,6 +13,7 @@
         <li><a href="https://leetcode.com/Praveen619/">Leetcode</a></li>
         <li><a href="https://auth.geeksforgeeks.org/user/praveenmani1/practice/">GeeksForGeeks</a></li>
         <li><a href="https://www.hackerrank.com/pm495949">HackerRank</a></li>
+        <li><a href="https://praveenmani619.medium.com/">Medium</a></li>
     </ul>
 </div>
 <!--
